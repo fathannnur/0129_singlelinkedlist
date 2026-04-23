@@ -21,5 +21,4 @@ public:
 
     void addNode()
     {
-
-    }
+        int nim;
